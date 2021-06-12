@@ -2,7 +2,7 @@
 FREQTALS, an extension of FREQT tree mining algorithm, is designed to discover patterns in software source code. It can discover either patterns in individual systems or patterns that occur with different frequences in two versions of a system.
 
 ## Getting FREQTALS ##
-FREQTALS is implemented in Python. To execute it, you have to run the main file. Usually I use pycharm to do it. Just open the freqt_python folder in pycharm and execute the main with the willing arguments.
+FREQTALS is implemented in Python. To execute it, you have to run the main file. Usually, I use PyCharm to do it. Just open the freqt_python folder in PyCharm and execute the main with the willing arguments.
 
 ## External libraries ##
 FREQTALS uses `forestmatcher.jar` (https://gitlab.soft.vub.ac.be/intimals/forest-matcher) to match patterns in source code. Thus, please make sure that the forsmatcher.jar file is stored in the same directory with freqtats.jar.
@@ -11,7 +11,7 @@ To install this library, please execute the following command: pip install pyjav
 ## Using FREQTALS ##
 
 ### Syntax ###
-execute FREQTALS on a single dataset and a minimum support threshold. Here are the arguments order:
+execute FREQTALS on a single dataset and a minimum support threshold. Here are the order of the arguments:
 `CONFIG_FILE MIN_SUPPORT INPUT_DIR`
 
 where 

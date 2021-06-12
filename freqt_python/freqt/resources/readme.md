@@ -6,6 +6,6 @@ The sample datasets include 1 abstract data which uses A,B,C,... as labels, and 
 - `conf-artificial-data`: contains configurations
 
 ## Running freqtals on sample datasets ##
-- run freqtals on visitor, list of the requiered arguments:
+- run freqtals on visitor, list of the required arguments:
 `../../../../ressources/conf-artifical-data/design-patterns/config.properties 2 visitor`
 
