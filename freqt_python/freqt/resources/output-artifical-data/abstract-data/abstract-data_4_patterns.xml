@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<results>
+<subtree id="1" support="4" wsupport="4" size="7">
+<A>
+<__directives>
+<match-sequence/>
+</__directives>
+<B>
+<__directives><match-sequence/></__directives>
+<F>
+f1
+</F>
+</B>
+<D>
+<__directives>
+<match-sequence/>
+</__directives>
+<D1>
+d1
+</D1>
+</D>
+</A>
+</subtree>
+</results>

@@ -1,0 +1,10 @@
+INPUT
+===================
+- data sources : ../../../../resources/input-artificial-data/design-patterns/builder
+- input files : 6
+- minSupport : 2
+OUTPUT
+===================
+finished search
++ Maximal patterns = 13
++ Running times = 10.511851787567139 s

@@ -1,0 +1,10 @@
+INPUT
+===================
+- data sources : ../../../../test/TestMain/input/design-patterns/builder
+- input files : 6
+- minSupport : 2
+OUTPUT
+===================
+finished search
++ Maximal patterns = 13
++ Running times = 8.080617904663086 s

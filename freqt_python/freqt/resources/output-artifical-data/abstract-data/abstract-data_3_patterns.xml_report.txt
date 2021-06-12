@@ -1,0 +1,15 @@
+INPUT
+===================
+- data sources : ../../../../resources/input-artificial-data/abstract-data
+- input files : 4
+- minSupport : 3
+
+OUTPUT
+===================
+- Step 1: Mining frequent patterns with max size constraints
+	 + running time = 0.05800318717956543s
+	 + root occurrences groups = 1
+- Step 2: Mining maximal patterns WITHOUT max size constraint:
+	 + search finished
+	 + maximal patterns: 1
+	 + running time: ...0.07802057266235352s

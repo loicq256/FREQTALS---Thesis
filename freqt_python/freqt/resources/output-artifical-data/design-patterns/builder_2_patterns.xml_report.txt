@@ -1,0 +1,12 @@
+INPUT
+===================
+- data sources : ../../../../resources/input-artificial-data/design-patterns/builder
+- input files : 6
+- minSupport : 2
+
+OUTPUT
+===================
+- Step 1: Mining frequent patterns with max size constraints
+	 + running time = 15.94769549369812s
+	 + root occurrences groups = 5
+- Step 2: Mining maximal patterns WITHOUT max size constraint:
