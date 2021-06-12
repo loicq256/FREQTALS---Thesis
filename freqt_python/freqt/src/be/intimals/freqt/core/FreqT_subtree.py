@@ -8,7 +8,6 @@ from freqt.src.be.intimals.freqt.output.AoutFormatter import *
 from freqt.src.be.intimals.freqt.output.XMLOutput import *
 from freqt.src.be.intimals.freqt.structure import *
 from freqt.src.be.intimals.freqt.util.Initial_Int import *
-from freqt.src.be.intimals.freqt.util.XmlFormatter import *
 from freqt.src.be.intimals.freqt.structure.FTArray import *
 from freqt.src.be.intimals.freqt.structure.Pattern import *
 from freqt.src.be.intimals.freqt.input.ReadFileInt import *
